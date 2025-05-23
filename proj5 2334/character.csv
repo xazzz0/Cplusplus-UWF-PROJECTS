@@ -1,0 +1,5 @@
+name,player,
+health,100,
+items,pen,candle,
+x_coord,3,
+y_coord,1,
